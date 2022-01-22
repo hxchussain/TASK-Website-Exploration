@@ -1,3 +1,5 @@
+/** @format */
+
 let isDark = false;
 
 // 1. This function will toggle the appearance from light text to dark text
@@ -10,6 +12,7 @@ function toggleColor() {
     body.style.color = "white";
   }
 }
+///this is hussain codefff
 
 // 2. This will make everything lowercase
 function beGentle() {
